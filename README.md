@@ -27,11 +27,12 @@
 
 ## 👥 Наша команда
 
-| Участник | Роль | GitHub |
-|:---|:---|:---|
-| <a href="https://github.com/makeouthillx444"><img src="https://github.com/makeouthillx444.png" width="32"></a> Артём | Team Leader / Owner | [@makeouthillx444](https://github.com/makeouthillx444) |
-| <a href="https://github.com/HeadAiss"><img src="https://github.com/HeadAiss.png" width="32"></a> Андрей | Co-Leader | [@HeadAiss](https://github.com/HeadAiss) |
-| <a href="https://github.com/THEDARFz"><img src="https://github.com/THEDARFz.png" width="32"></a> Дима | Senior Developer | [@THEDARFz](https://github.com/THEDARFz) |
+| | Участник | Роль | GitHub |
+|:---|:---|:---|:---|
+| <a href="https://github.com/makeouthillx444"><img src="https://github.com/makeouthillx444.png" width="32"></a> | Артём | Team Leader / Owner | [@makeouthillx444](https://github.com/makeouthillx444) |
+| <a href="https://github.com/HeadAiss"><img src="https://github.com/HeadAiss.png" width="32"></a> | Андрей | Co-Leader | [@HeadAiss](https://github.com/HeadAiss) |
+| <a href="https://github.com/THEDARFz"><img src="https://github.com/THEDARFz.png" width="32"></a> | Дима | Senior Developer | [@THEDARFz](https://github.com/THEDARFz) |
+| <a href="https://github.com/Darya833"><img src="https://github.com/Darya833.png" width="32"></a> | Дарья | Junior Developer | [@Darya833](https://github.com/Darya833) |
 
 ---
 
