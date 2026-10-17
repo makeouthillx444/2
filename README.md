@@ -10,7 +10,6 @@
 ## 📌 Наш проект
 
 Планировщик задач позволяет пользователю:
-
 - ✅ Создавать задачи с дедлайнами;
 - 🎯 Расставлять приоритеты (высокий / средний / низкий);
 - 📊 Отслеживать прогресс выполнения по категориям;
@@ -31,10 +30,10 @@
 
 | Участник | Роль | GitHub |
 |:---|:---|:---|
-| <a href="https://github.com/makeouthillx444"><img src="https://github.com/makeouthillx444.png" width="60" alt="Артём"></a> | Team Leader / Owner | [@makeouthillx444](https://github.com/makeouthillx444) |
-| <a href="https://github.com/HeadAiss"><img src="https://github.com/HeadAiss.png" width="60" alt="Андрей"></a> | Co-Leader | [@HeadAiss](https://github.com/HeadAiss) |
-| <a href="https://github.com/THEDARFz"><img src="https://github.com/THEDARFz.png" width="60" alt="Дима"></a> | Senior Developer | [@THEDARFz](https://github.com/THEDARFz) |
-| <a href="https://github.com/Darya833"><img src="https://github.com/Darya833.png" width="60" alt="Дарья"></a> | Junior Developer | [@Darya833](https://github.com/Darya833) |
+| <a href="https://github.com/makeouthillx444"><img src="https://github.com/makeouthillx444.png" width="32"> Артём</a> | Team Leader / Owner | [@makeouthillx444](https://github.com/makeouthillx444) |
+| <a href="https://github.com/HeadAiss"><img src="https://github.com/HeadAiss.png" width="32"> Андрей</a> | Co-Leader | [@HeadAiss](https://github.com/HeadAiss) |
+| <a href="https://github.com/THEDARFz"><img src="https://github.com/THEDARFz.png" width="32"> Дима</a> | Senior Developer | [@THEDARFz](https://github.com/THEDARFz) |
+| <a href="https://github.com/Darya833"><img src="https://github.com/Darya833.png" width="32"> Дарья</a> | Junior Developer | [@Darya833](https://github.com/Darya833) |
 
 ---
 
