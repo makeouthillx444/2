@@ -36,8 +36,6 @@
 | <a href="https://github.com/THEDARFz"><img src="https://github.com/THEDARFz.png" width="60" alt="Аватар Димы"></a> | Дима | 💻 Senior Developer | [@THEDARFz](https://github.com/THEDARFz) |
 | <a href="https://github.com/Darya833"><img src="https://github.com/Darya833.png" width="60" alt="Аватар Дарьи"></a> | Дарья | 🌱 Junior Developer | [@Darya833](https://github.com/Darya833) |
 
-*Нажми на аватарку или ник, чтобы перейти в профиль GitHub участника.*
-
 ---
 
 ## 📖 Пользовательские истории
